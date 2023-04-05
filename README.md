@@ -32,7 +32,7 @@
 
 # Language & Tools
 
-![](https://img.shields.io/badge/CODE-React-white?logo=React)
+![](https://img.shields.io/badge/CODE-React-white?logo=React&logoColor=white)
 ![](https://img.shields.io/badge/CODE-Python-white?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VIM-white?logo=Vim&logoColor=white)
 ![](https://img.shields.io/badge/CODE-C-white?logo=C&logoColor=white)
