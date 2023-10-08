@@ -10,6 +10,7 @@
 - TUM Student;
 - Front-end Developer | React;
 - Back-end Developer | Python;
+- Native Developer | React Native;
 
 ### - Hobbies:
 - Ping Pong;
