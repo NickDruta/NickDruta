@@ -22,6 +22,10 @@
   [![Linkedin: Nicolae Druta](https://img.shields.io/badge/-nicolaedruta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolaedruta/)](https://www.linkedin.com/in/nicolaedruta/)
 <hr/>
 
+## - Freelancing account:
+[![Instagram: itfactory.md](https://img.shields.io/badge/-itfactory.md-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/itfactory.md/)](https://www.instagram.com/itfactory.md/)
+<hr/>
+
 # My GitHub Stats:
 
 
